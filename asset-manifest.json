@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/c1/static/css/main.e0d98a5d.css",
+    "main.js": "/c1/static/js/main.53f0a6a6.js",
+    "static/media/Hack.svg": "/c1/static/media/Hack.412bb12cfd3554b6b810d5caea8a24b8.svg",
+    "static/media/WebDevelopment.svg": "/c1/static/media/WebDevelopment.6f129177acb1bd37b778b86d13b2440d.svg",
+    "static/media/Networking.svg": "/c1/static/media/Networking.a55cb33ec2e39ceb46828618e120e5d7.svg",
+    "static/media/programming.svg": "/c1/static/media/programming.c186c8d002bec354c257149adc6f3dca.svg",
+    "static/media/Programming.svg": "/c1/static/media/Programming.4e262b233472df7f6a44659639ee7d68.svg",
+    "static/media/Animation.svg": "/c1/static/media/Animation.fbe31fbc423eb51b5cfe0b56bb58ec8c.svg",
+    "static/media/Graphic.svg": "/c1/static/media/Graphic.d901765250faab9295bd48fa99d37730.svg",
+    "static/media/Mern.svg": "/c1/static/media/Mern.ad6d697a205d534560c3bd2f2780e87a.svg",
+    "static/media/React.svg": "/c1/static/media/React.9610142416884e62fa0c3565ace240bc.svg",
+    "static/media/About.svg": "/c1/static/media/About.584161a884c4f44b9f81ee2c0229ea37.svg",
+    "static/media/Bug.svg": "/c1/static/media/Bug.85d2e59853973e609883d3243282115f.svg",
+    "static/media/Hardware.svg": "/c1/static/media/Hardware.61a8b6ed47dc96456659c7683254c265.svg",
+    "static/media/marketing.svg": "/c1/static/media/marketing.6e3d01b0475010b40069e9f435fc2db7.svg",
+    "index.html": "/c1/index.html",
+    "main.e0d98a5d.css.map": "/c1/static/css/main.e0d98a5d.css.map",
+    "main.53f0a6a6.js.map": "/c1/static/js/main.53f0a6a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d98a5d.css",
+    "static/js/main.53f0a6a6.js"
+  ]
+}
