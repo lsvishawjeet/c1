@@ -49,7 +49,7 @@ const Navibar =()=>{
                   <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/c1/about" href="#about">About</NavLink></span></Nav.Link>
                   <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/c1/Contact" href="#about">Contact</NavLink></span></Nav.Link>
                 </Nav>
-              <NavLink style={{textDecoration:"none", color:"white"}} to="/contact"><Button className="applybuttonnav">Apply Now</Button> </NavLink>
+              <NavLink style={{textDecoration:"none", color:"white"}} to="/c1/contact"><Button className="applybuttonnav">Apply Now</Button> </NavLink>
               </Offcanvas.Body>
             </Navbar.Offcanvas>
           </Container>
