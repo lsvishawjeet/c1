@@ -29,8 +29,8 @@ const Navibar =()=>{
               </Offcanvas.Header>
               <Offcanvas.Body>
                 <Nav className="justify-content-center flex-grow-1 pe-3">
-                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/home">Home</NavLink></span></Nav.Link>
-                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/programs">Programs</NavLink></span></Nav.Link>
+                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/c1/home">Home</NavLink></span></Nav.Link>
+                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/c1/programs">Programs</NavLink></span></Nav.Link>
                   {/* <NavDropdown
                     title="Programs"
                     id={`offcanvasNavbarDropdown-expand-${expand}`}
@@ -46,8 +46,8 @@ const Navibar =()=>{
                       Programming
                     </NavDropdown.Item>
                   </NavDropdown> */}
-                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/about" href="#about">About</NavLink></span></Nav.Link>
-                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/Contact" href="#about">Contact</NavLink></span></Nav.Link>
+                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/c1/about" href="#about">About</NavLink></span></Nav.Link>
+                  <Nav.Link className="navihover"><span className="navborder"> <NavLink style={{textDecoration:"none", color:"black"}} activeClassName="navbaractive" to="/c1/Contact" href="#about">Contact</NavLink></span></Nav.Link>
                 </Nav>
               <NavLink style={{textDecoration:"none", color:"white"}} to="/contact"><Button className="applybuttonnav">Apply Now</Button> </NavLink>
               </Offcanvas.Body>

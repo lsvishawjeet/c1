@@ -25,14 +25,14 @@ function App() {
    <Contact/> */}
    {/* <Hacking/> */}
    <Switch>
-   <Redirect exact from="/" to="/home" />
-    <Route exact path='/home' component={Homepage}/>
-    <Route exact path='/about' component={About2}/>
-    <Route exact path='/contact' component={Contact2}/>
-    <Route exact path='/programs' component={Programs}/>
-    <Route exact path='/programs/eh1' component={Hacking}/>
-    <Route exact path='/programs/eh2' component={BugBounty}/>
-    <Route exact path='/programs/digitalmarketing' component={DigitalMarketing}/>
+   <Redirect exact from="/c1" to="/c1/home" />
+    <Route exact path='/c1/home' component={Homepage}/>
+    <Route exact path='/c1/about' component={About2}/>
+    <Route exact path='/c1/contact' component={Contact2}/>
+    <Route exact path='/c1/programs' component={Programs}/>
+    <Route exact path='/c1/programs/eh1' component={Hacking}/>
+    <Route exact path='/c1/programs/eh2' component={BugBounty}/>
+    <Route exact path='/c1/programs/digitalmarketing' component={DigitalMarketing}/>
     </Switch>
     <Contact/>
     <Footer/>
